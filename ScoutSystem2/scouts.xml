@@ -1,0 +1,19 @@
+<object-stream>
+  <list>
+    <BeaverScout>
+      <name>Rachel</name>
+      <county>Kilkenny</county>
+      <dateOfBirth>05/12/1997</dateOfBirth>
+      <address>Kilkenny</address>
+      <phoneNumber>0855555555</phoneNumber>
+      <specialInterests>
+        <SpecialInterest>
+          <interestCategory>Running</interestCategory>
+          <details>In Running club throughout school</details>
+          <dateBadgeReceived>05/07/2007</dateBadgeReceived>
+        </SpecialInterest>
+      </specialInterests>
+      <parentPhone>0854444444</parentPhone>
+    </BeaverScout>
+  </list>
+</object-stream>
